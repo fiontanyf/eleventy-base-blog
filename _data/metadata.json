@@ -1,20 +1,20 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Fi test profile page",
+  "url": "https://elegant-hermann-0097cc.netlify.app/",
+  "description": "I am writing about my experiences as a UX Designer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a UX Designer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://elegant-hermann-0097cc.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://elegant-hermann-0097cc.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Fion",
+    "email": "fi@gmail.com",
+    "url": "https://elegant-hermann-0097cc.netlify.app/about-me/"
   }
 }
